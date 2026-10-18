@@ -231,7 +231,7 @@ export const upworkProfiles: UpworkProfile[] = [
     description:
       "A social media marketing Upwork profile included in my managed-profile portfolio, representing my experience in identifying opportunities and supporting business development for marketing services.",
     profileUrl: "https://www.upwork.com/freelancers/~010dbcc1df6b230139?mp_source=share",
-    screenshot: "https://ibb.co/mC50VS5n",
+    screenshot: "https://i.ibb.co/fYd9zQd3/image-2026-10-19-044943547.png",
     placeholderAlt: "Upwork profile screenshot for Social Media Marketing (Muhammad F. - Rising Talent)",
   },
  {
