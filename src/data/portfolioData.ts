@@ -242,8 +242,8 @@ export const upworkProfiles: UpworkProfile[] = [
     description:
       "A second social media marketing profile within my Upwork management portfolio, reflecting work focused on prospect opportunities, proposal preparation, and client acquisition support.",
     profileUrl: "https://www.upwork.com/freelancers/~015be36e2eab7271a9",
-    screenshot: "./upwork-social-media-02.png",
-    placeholderAlt: "Upwork profile screenshot for Social Media Marketing Profile 02",
+    screenshot: "https://i.ibb.co/PGgt1jLz/image-2026-10-19-041211079.png",
+    placeholderAlt: "Upwork profile screenshot for Social Media Marketing Profile 02 (Moiz N. - Rising Talent)",
   },
   {
     id: "upwork-graphic-design-01",
